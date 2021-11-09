@@ -11,7 +11,8 @@ function App() {
         <Col>
         <div className="App">
           <header className="App-header">
-            <Character hp={30}/>
+            <Character name='Ork 1' hp={30}/>
+            <Character name='Ork 2' hp={40}/>
           </header>
         </div>
         </Col>
